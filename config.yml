@@ -1,0 +1,20 @@
+harborIP: 192.168.47.130
+auth:
+  username: admin
+  password: 1qaz!QAZ
+project:
+- public/test
+  public/centos
+  public/myimage
+#config.yml
+#appname: test
+#
+#db:
+#  name:     test
+#  user:     test
+#  password: test
+#  port:     1234
+#
+#contacts:
+#  - name: i test
+#    email: test@test.com
