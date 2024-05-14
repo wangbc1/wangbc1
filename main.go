@@ -2,8 +2,8 @@ package main
 
 import (
 	"docker-pull/config"
+	"docker-pull/configor"
 	"fmt"
-	"github.com/jinzhu/configor"
 )
 
 //var HarborIP = struct {
